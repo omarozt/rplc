@@ -1,0 +1,41 @@
+
+	.mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	A.mstrLink:hover .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	* HTML .mstrLogo {
+		filter: 		progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../plugins/ReplacingMicroStrategyWebButton/style/images/project.gif', sizingMethod='scale');
+	}
+	.Blue .opened .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	.Carbon .opened .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	.Red .opened .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	.opened .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	.mstrWeb.Carbon .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	.Carbon A.mstrLink:hover .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	.mojoPath .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	.mojoPath .opened .mstrLogo {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	.mojoPath .opened .mstrLogo:hover {
+		background: 		transparent url(images/project.gif) no-repeat scroll center;
+	}
+	* HTML A.mstrLink:hover .mstrLogo {
+		filter: 		progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../plugins/ReplacingMicroStrategyWebButton/style/images/project.gif', sizingMethod='scale');
+	}
+
