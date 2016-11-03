@@ -1,7 +1,7 @@
 
 	.mstrLogo {
 		background: 		transparent url(images/project.png) no-repeat scroll center;
-		width: 70px;
+		width: 60px;
 	}
 	A.mstrLink:hover .mstrLogo {
 		background: 		transparent url(images/project.png) no-repeat scroll center;
